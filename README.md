@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I'm a passionate front-end developer who loves solving problems and mastering new technologies.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanck22&label=Profile%20views&color=0e75b6&style=flat" alt="chandanck22" /> </p>
