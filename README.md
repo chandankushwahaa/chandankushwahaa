@@ -2,10 +2,6 @@
 <h3 align="center">I'm a passionate front-end developer who loves solving problems and mastering new technologies.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandanck22&label=Profile%20views&color=0e75b6&style=flat" alt="chandanck22" /> </p>
-
-<p align="left"> <a href="https://twitter.com/chandanck22" target="blank"><img src="https://img.shields.io/twitter/follow/chandanck22?logo=twitter&style=for-the-badge" alt="chandanck22" /></a> </p>
-
 - 🌱 I’m currently learning **django, Node.js**
 
 - 💬 Ask me about **HTML, CSS, Bootstrap**
