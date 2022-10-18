@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
 <h3 align="center">I'm a passionate front-end developer who loves solving problems and mastering new technologies.</h3>
 
+[![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
 
 - 🌱 I’m currently learning **django, Node.js**
 
