@@ -6,7 +6,7 @@
 - I’m currently learning **django, Node.js**
 - Ask me about **HTML, CSS, Bootstrap**
 - I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
-- I am currenting studying Computer Science at Galgotias University.
+- I am currently studying Computer Science at Galgotias University.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
