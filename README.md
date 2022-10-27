@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
-<h3 align="center">I'm a passionate front-end developer who loves solving problems and mastering new technologies.</h3>
 
+<h2> About Me </h2>
 
-- 🌱 I’m currently learning **django, Node.js**
-
-- 💬 Ask me about **HTML, CSS, Bootstrap**
+- I'm a passionate front-end developer who loves solving problems and mastering new technologies.
+- I’m currently learning **django, Node.js**
+- Ask me about **HTML, CSS, Bootstrap**
+- I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
+- I am currenting studying Computer Science at Galgotias University.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chandanck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandanck22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chandanck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandanck22" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chandanck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandanck22" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chandanck22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandanck22" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/chandanck221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chandanck221" height="30" width="40" /></a>
 </p>
 
