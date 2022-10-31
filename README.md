@@ -6,7 +6,7 @@
 - I’m currently learning **django, Node.js**
 - Ask me about **HTML, CSS, Bootstrap**
 - I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
-- I am currently studying Computer Science at Galgotias University.
+<!-- I am currently studying Computer Science at Galgotias University. -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=chandanck22&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p>
+
+
+[![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
+
 
