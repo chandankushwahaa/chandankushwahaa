@@ -6,8 +6,8 @@
 <h2> About Me </h2>
 
 - I'm a passionate front-end developer who loves solving problems and mastering new technologies.
-- I’m currently learning **django, Node.js**
-- Ask me about **HTML, CSS, Bootstrap**
+- I’m currently learning **django**.
+- Ask me about **HTML, CSS, Bootstrap**.
 - I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
 <!-- I am currently studying Computer Science at Galgotias University. -->
 
