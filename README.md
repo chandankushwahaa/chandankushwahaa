@@ -84,4 +84,6 @@
 
 [![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
 
+[![chandanck22's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh)
+
 
