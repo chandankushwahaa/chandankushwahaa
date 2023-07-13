@@ -80,7 +80,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
 </p>
 
-[![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph)
+<!-- [![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) -->
+
+
+[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandanck22&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22)
 
