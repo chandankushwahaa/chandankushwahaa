@@ -2,13 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Chandan Kushwaha</h1>
 
-<h2> About Me </h2>
-
-- I'm a passionate front-end developer who loves solving problems and mastering new technologies.
-- I’m currently learning **django**.
-- Ask me about **HTML, CSS, Bootstrap**.
-- I reads books and write blogs on free time [here](https://chandanck.hashnode.dev/).
-<!-- I am currently studying Computer Science at Galgotias University. -->
 
 <h3 align="left">Let's Connect:</h3>
 
@@ -17,16 +10,16 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/chandanck22">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="https://hashnode.com/@chandanck22">
+  <a href="https://nullhackers.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/>
   </a>
     <a href="https://auth.geeksforgeeks.org/user/chandanck221/practice">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F2B3C?style=for-the-badge&logo=GeeksforGeeks" alt="gfg Badge"/>
   </a>
     <a href="https://www.hackerrank.com/chandanck22">
-    <img src="https://img.shields.io/badge/HackerRank-1A4055?style=for-the-badge&logo=HackerRank" alt="gfg Badge"/>
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
   </a>
   <!-- <a href="#">
     <img src="https://img.shields.io/badge/HackerEarth-B9B3A6?style=for-the-badge&logo=HackerEarth" alt="gfg Badge"/>
