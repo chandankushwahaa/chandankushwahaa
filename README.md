@@ -21,10 +21,10 @@
     <a href="https://www.hackerrank.com/chandanck22">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="gfg Badge"/>
   </a>
-  <!-- <a href="#">
-    <img src="https://img.shields.io/badge/HackerEarth-B9B3A6?style=for-the-badge&logo=HackerEarth" alt="gfg Badge"/>
+  <a href="https://chandanck22.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-B9B3A6?style=for-the-badge&logo=world" alt="portfolio Badge"/>
   </a>
-  <a href="#">
+  <!-- <a href="#">
     <img src="https://img.shields.io/badge/LeetCode-1A1A1A?style=for-the-badge&logo=LeetCode" alt="gfg Badge"/>
   </a> -->
 
