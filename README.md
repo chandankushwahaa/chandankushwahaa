@@ -4,6 +4,7 @@
 
 
 <h3 align="left">Let's Connect:</h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=sunny7739&label=Profile%20views&color=0e75b6&style=flat" alt="sunny7739" /> </h3>
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/chandanck22/">
