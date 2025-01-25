@@ -4,7 +4,7 @@
 
 
 <h3 align="left">Let's Connect:</h3>
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=sunny7739&label=Profile%20views&color=0e75b6&style=flat" alt="sunny7739" /> </h3>
+<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=chandankushwahaa&label=Profile%20views&color=0e75b6&style=flat" alt="chandankushwahaa" /> </h3>
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/chandankushwahaa/">
@@ -77,10 +77,8 @@
 <!-- [![Chandan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandanck22&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) -->
 
 
-[![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandankushwahaa&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![Chandan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=chandankushwahaa&theme=high-contrast)](https://github.com/chandankushwahaa/github-readme-activity-graph) -->
 
-[![@chandanck22's Holopin board](https://holopin.me/chandanck22)](https://holopin.io/@chandankushwaha)
-
-<!-- [![chandanck22's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh) -->
+<!-- [![An image of @chandanck22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandanck22)](https://holopin.io/@chandanck22) -->
 
 
